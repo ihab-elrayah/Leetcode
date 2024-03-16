@@ -33,7 +33,7 @@ These solutions are my own and are meant for educational purposes. They are not 
 
 If you want to solve some questions together or have any questions, feel free to contact me. Happy coding!
 
-- GitHub: [@ihab-elrayah](https://github.com/ihab-elrayah)
+- Linkedin: [@ihab-elrayah](https://www.linkedin.com/in/ihab-elrayah/)
 - Email: ihab.elrayah6@gmail.com
   
 ## Acknowledgments

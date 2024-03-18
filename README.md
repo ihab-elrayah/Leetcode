@@ -1,4 +1,4 @@
- # LeetCode Solutions
+  # LeetCode Solutions
 
 Welcome to my repository of LeetCode solutions! Here, you'll find my personal approaches to tackling problems from easy to hard levels on LeetCode. Each solution is crafted with detailed comments to not just solve the problem, but to guide you through the thought process and the reasoning behind each solution.
 
